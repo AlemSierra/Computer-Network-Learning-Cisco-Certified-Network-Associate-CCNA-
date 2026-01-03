@@ -41,9 +41,38 @@ Develop the necessary skills to design, configure, secure, and manage data netwo
 </p>
 <br>
 
-<h2 align="left"> Table of Contents </h2>
+<h2 align="center">.𖥔 ݁ ˖๋ ࣭ ⭑  Table of Contents ⭑ ݁ ˖๋ ݁ 𖥔. </h2>
 
 <br>
+
+| Module | Type | Unit | Name | Description | Video | Slide | Quiz | Lab |
+|--------|------|------|------|-------------|-------|-------|------|-----|
+| CCNA ITN-1 | Knowledge Check | — | My Knowledge Check | Initial assessment of prior knowledge | [View](https://tu-link-aqui.com) | [View](https://tu-link-aqui.com) | [View](https://tu-link-aqui.com) |  [View](https://tu-link-aqui.com) |
+| CCNA ITN-1 | Module | 1 | Networking Today | Introduction to networking and its current relevance | [View](https://tu-link-aqui.com) | [View](https://tu-link-aqui.com) |  [View](https://tu-link-aqui.com) | [View](https://tu-link-aqui.com) |
+| CCNA ITN-1 | Module | 2 | Basic Switch and End Device Configuration | Basic configuration of switches and end devices | [View](https://tu-link-aqui.com) | [View](https://tu-link-aqui.com) |  [View](https://tu-link-aqui.com) | [View](https://tu-link-aqui.com) |
+| CCNA ITN-1 | Module | 3 | Protocols and Models | OSI and TCP/IP models and networking protocols | [View](https://tu-link-aqui.com) | [View](https://tu-link-aqui.com) |  [View](https://tu-link-aqui.com) | [View](https://tu-link-aqui.com) |
+| CCNA ITN-1 | Checkpoint Exam | 3 | Basic Network Connectivity and Communications | Assessment of basic network connectivity and communication |  [View](https://tu-link-aqui.com) |  [View](https://tu-link-aqui.com) | [View](https://tu-link-aqui.com) |  [View](https://tu-link-aqui.com) |
+| CCNA ITN-1 | Module | 4 | Physical Layer | Physical media and data transmission | [View](https://tu-link-aqui.com) | [View](https://tu-link-aqui.com) |  [View](https://tu-link-aqui.com) | [View](https://tu-link-aqui.com) |
+| CCNA ITN-1 | Module | 5 | Number Systems | Number systems used in networking | [View](https://tu-link-aqui.com) | [View](https://tu-link-aqui.com) |  [View](https://tu-link-aqui.com) | [View](https://tu-link-aqui.com) |
+| CCNA ITN-1 | Module | 6 | Data Link Layer | Frames and data link layer concepts | [View](https://tu-link-aqui.com) | [View](https://tu-link-aqui.com) |  [View](https://tu-link-aqui.com) | [View](https://tu-link-aqui.com) |
+| CCNA ITN-1 | Module | 7 | Ethernet Switching | Ethernet switching concepts and operation | [View](https://tu-link-aqui.com) | [View](https://tu-link-aqui.com) |  [View](https://tu-link-aqui.com) | [View](https://tu-link-aqui.com) |
+| CCNA ITN-1 | Checkpoint Exam | 7 | Ethernet Concepts | Assessment of Ethernet concepts |  [View](https://tu-link-aqui.com) |  [View](https://tu-link-aqui.com) | [View](https://tu-link-aqui.com) |  [View](https://tu-link-aqui.com) |
+| CCNA ITN-1 | Module | 8 | Network Layer | Network layer functions | [View](https://tu-link-aqui.com) | [View](https://tu-link-aqui.com) |  [View](https://tu-link-aqui.com) | [View](https://tu-link-aqui.com) |
+| CCNA ITN-1 | Module | 9 | Address Resolution | Address resolution using ARP | [View](https://tu-link-aqui.com) | [View](https://tu-link-aqui.com) |  [View](https://tu-link-aqui.com) | [View](https://tu-link-aqui.com) |
+| CCNA ITN-1 | Module | 10 | Basic Router Configuration | Basic router configuration | [View](https://tu-link-aqui.com) | [View](https://tu-link-aqui.com) |  [View](https://tu-link-aqui.com) | [View](https://tu-link-aqui.com) |
+| CCNA ITN-1 | Checkpoint Exam | 10 | Communicating Between Networks | Communication between networks |  [View](https://tu-link-aqui.com) |  [View](https://tu-link-aqui.com) | [View](https://tu-link-aqui.com) |  [View](https://tu-link-aqui.com) |
+| CCNA ITN-1 | Module | 11 | IPv4 Addressing | IPv4 addressing concepts | [View](https://tu-link-aqui.com) | [View](https://tu-link-aqui.com) |  [View](https://tu-link-aqui.com) | [View](https://tu-link-aqui.com) |
+| CCNA ITN-1 | Module | 12 | IPv6 Addressing | IPv6 addressing concepts | [View](https://tu-link-aqui.com) | [View](https://tu-link-aqui.com) |  [View](https://tu-link-aqui.com) | [View](https://tu-link-aqui.com) |
+| CCNA ITN-1 | Module | 13 | ICMP | Control and diagnostic messages | [View](https://tu-link-aqui.com) | [View](https://tu-link-aqui.com) |  [View](https://tu-link-aqui.com) | [View](https://tu-link-aqui.com) |
+| CCNA ITN-1 | Checkpoint Exam | 13 | IP Addressing | IP addressing assessment |  [View](https://tu-link-aqui.com) |  [View](https://tu-link-aqui.com) | [View](https://tu-link-aqui.com) |  [View](https://tu-link-aqui.com) |
+| CCNA ITN-1 | Module | 14 | Transport Layer | TCP and UDP protocols | [View](https://tu-link-aqui.com) | [View](https://tu-link-aqui.com) |  [View](https://tu-link-aqui.com) | [View](https://tu-link-aqui.com) |
+| CCNA ITN-1 | Module | 15 | Application Layer | Application layer protocols and services | [View](https://tu-link-aqui.com) | [View](https://tu-link-aqui.com) |  [View](https://tu-link-aqui.com) | [View](https://tu-link-aqui.com) |
+| CCNA ITN-1 | Checkpoint Exam | 15 | Network Application Communications | Application-level communications |  [View](https://tu-link-aqui.com) |  [View](https://tu-link-aqui.com) | [View](https://tu-link-aqui.com) |  [View](https://tu-link-aqui.com) |
+| CCNA ITN-1 | Module | 16 | Network Security Fundamentals | Network security fundamentals | [View](https://tu-link-aqui.com) | [View](https://tu-link-aqui.com) |  [View](https://tu-link-aqui.com) | [View](https://tu-link-aqui.com) |
+| CCNA ITN-1 | Module | 17 | Build a Small Network | Building a small network | [View](https://tu-link-aqui.com) | [View](https://tu-link-aqui.com) |  [View](https://tu-link-aqui.com) | [View](https://tu-link-aqui.com) |
+| CCNA ITN-1 | Checkpoint Exam | 17 | Building and Securing a Small Network | Assessment of building and securing a small network |  [View](https://tu-link-aqui.com) |  [View](https://tu-link-aqui.com) | [View](https://tu-link-aqui.com) |  [View](https://tu-link-aqui.com) |
+| CCNA ITN-1 | Final Exam | — | Practice Final Exam | Practice final exam |  [View](https://tu-link-aqui.com) |  [View](https://tu-link-aqui.com) | [View](https://tu-link-aqui.com) |  [View](https://tu-link-aqui.com) |
+| CCNA ITN-1 | Final Exam | — | Course Final Exam | Final course exam |  [View](https://tu-link-aqui.com) |  [View](https://tu-link-aqui.com) | [View](https://tu-link-aqui.com) |  [View](https://tu-link-aqui.com) |
 
 
 <br>
