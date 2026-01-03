@@ -47,7 +47,6 @@ Develop the necessary skills to design, configure, secure, and manage data netwo
 
 | Module | Type | Unit | Name | Description | Video | Slide | Quiz | Lab |
 |--------|------|------|------|-------------|-------|-------|------|-----|
-| CCNA ITN-1 | Knowledge Check | — | My Knowledge Check | Initial assessment of prior knowledge | [View](https://tu-link-aqui.com) | [View](https://tu-link-aqui.com) | [View](https://tu-link-aqui.com) |  [View](https://tu-link-aqui.com) |
 | CCNA ITN-1 | Module | 1 | Networking Today | Introduction to networking and its current relevance | [View](https://tu-link-aqui.com) | [View](https://tu-link-aqui.com) |  [View](https://tu-link-aqui.com) | [View](https://tu-link-aqui.com) |
 | CCNA ITN-1 | Module | 2 | Basic Switch and End Device Configuration | Basic configuration of switches and end devices | [View](https://tu-link-aqui.com) | [View](https://tu-link-aqui.com) |  [View](https://tu-link-aqui.com) | [View](https://tu-link-aqui.com) |
 | CCNA ITN-1 | Module | 3 | Protocols and Models | OSI and TCP/IP models and networking protocols | [View](https://tu-link-aqui.com) | [View](https://tu-link-aqui.com) |  [View](https://tu-link-aqui.com) | [View](https://tu-link-aqui.com) |
