@@ -47,7 +47,7 @@ Develop the necessary skills to design, configure, secure, and manage data netwo
 
 | Module | Type | Unit | Name | Description | Video | Slide | Quiz | Lab |
 |--------|------|------|------|-------------|-------|-------|------|-----|
-| CCNA ITN-1 | Module | 1 | Networking Today | Introduction to networking and its current relevance | [View](https://tu-link-aqui.com) | [View](https://tu-link-aqui.com) |  [View](https://tu-link-aqui.com) | [View](https://tu-link-aqui.com) |
+| CCNA ITN-1 | Module | 1 | Networking Today | Introduction to networking and its current relevance | [View](https://www.youtube.com/watch?v=vOEJqFWLT70) | [View](https://docs.google.com/presentation/d/1lcte69hL-zhZD-DOtAHJDtZ1b_Exv8OfI8ZI03_YTA8/edit?usp=sharing) |  [View](https://tu-link-aqui.com) | [View](https://docs.google.com/presentation/d/1VVqcLyVU1-YVa83GclFgwW6j56wz1dQc5IysB1troZ8/edit?usp=sharing) |
 | CCNA ITN-1 | Module | 2 | Basic Switch and End Device Configuration | Basic configuration of switches and end devices | [View](https://tu-link-aqui.com) | [View](https://tu-link-aqui.com) |  [View](https://tu-link-aqui.com) | [View](https://tu-link-aqui.com) |
 | CCNA ITN-1 | Module | 3 | Protocols and Models | OSI and TCP/IP models and networking protocols | [View](https://tu-link-aqui.com) | [View](https://tu-link-aqui.com) |  [View](https://tu-link-aqui.com) | [View](https://tu-link-aqui.com) |
 | CCNA ITN-1 | Checkpoint Exam | 3 | Basic Network Connectivity and Communications | Assessment of basic network connectivity and communication |  [View](https://tu-link-aqui.com) |  [View](https://tu-link-aqui.com) | [View](https://tu-link-aqui.com) |  [View](https://tu-link-aqui.com) |
